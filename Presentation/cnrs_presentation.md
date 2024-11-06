@@ -1,0 +1,65 @@
+# Your Name Here
+- Soft Robots
+- Master Media Design + O2R
+
+## Area of intervention
+One sentence to describe what you are focusing on, inside the domestic space. For example: "Avoidance strategies in a shared collective living space".
+Ressurecting/Re-enacting presences and memories in a domestic space.
+
++ Key visual (from your field research)
++ Optional second visual
+
+## Research Question
+One or two sentences, describing questions that your project evokes. For example: "What new relationships can we have with traditional altars?"
+
+How to signal someone was there few times ago ?
+How to redefine the silence in living room ? 
+How can people be less lonely at home ?
+
+ 
+
+## Research
+Describe in a short paragraph (~1000 chars) the research that you have conducted around your core questions. Mentions your research methods: interviews, observations, questionnaires, et cætera. Illustrate each method with corresponding data, photo, sketches, audio, movies, etc. You can put a lot of elements here, but please curate the most illustrative materials.
+
+
+
+
+## Insights
+One, two, or three (max) insights from your research. Each insight described in one sentence. Example: "Pets can play the role of catalyst for resolving conflict in a couple".
+
+
+
+## First ideas & prototypes
+Show three of your prototypes.
+
+
+
+### Name of first prototype
+Short paragraph (~250 chars) describing the prototype.
+
+The Echo Tapestry is a tapestry 
+
+
++ One photo of the prototype (can be gif animation, or static)
++ One storyboard of the prototype
++ (Optional) Audio
++ (Optional) Video
+
+### Name of second prototype
+Short paragraph (~250 chars) describing the prototype.
+
++ One photo of the prototype (can be gif animation, or static)
++ One storyboard of the prototype
++ (Optional) Audio
++ (Optional) Video
+
+### Name of third prototype
+Short paragraph (~250 chars) describing the prototype.
+
++ One photo of the prototype (can be gif animation, or static)
++ One storyboard of the prototype
++ (Optional) Audio
++ (Optional) Video
+
+## Next Steps
+In one sentence, describe what you will focus on next.
