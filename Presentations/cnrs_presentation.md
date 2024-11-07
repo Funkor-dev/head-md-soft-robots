@@ -51,6 +51,8 @@ The Echo Tapestry is basically a tapestry that sleeps during quiet moments, but 
 ### Remirest
 Remirest is a smaller prototype than Echo Tapestry, it's a small companion that can be held in the palm of the hand or worn as a necklace, it has the same function of the first prototype but ressurect a reminescence when feeling the touch of a human. 
 
+I made a very quick auditive prototype, testing how the sound would be generated with the data (see video)
+
 ![images](images/AudioPrototype_Remirest.png)
 
 #### Storyboard 2
