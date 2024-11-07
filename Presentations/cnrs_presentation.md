@@ -4,7 +4,7 @@
 
 ## Area of intervention
 
-Ressurecting/invoking presences and reminescences in a domestic space.
+Ressurecting/invoking presences and reminescences of human activites in a domestic space.
 
 
 ## Research Question
