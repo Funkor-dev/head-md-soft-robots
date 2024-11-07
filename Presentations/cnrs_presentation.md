@@ -28,9 +28,8 @@ I traced the steps of three of my roommates to see where they would often go in 
 
 
 ## Insights
-The kitchen 
-
-
+The kitchen was the main zone of social interactions for all roommates
+Most of the time, my living room was empty and silent, leaving to long quiet moments before a new social interaction in the day.
 
 ## First ideas & prototypes
 Being unable of interacting with my roommates as much as I wanted, I came with the desire of trying to capture their presence, completely or partially, in a poetic way.
