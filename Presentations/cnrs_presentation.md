@@ -3,63 +3,57 @@
 - Master Media Design + O2R
 
 ## Area of intervention
-One sentence to describe what you are focusing on, inside the domestic space. For example: "Avoidance strategies in a shared collective living space".
-Ressurecting/Re-enacting presences and memories in a domestic space.
 
-+ Key visual (from your field research)
-+ Optional second visual
+Ressurecting/invoking presences and reminescences in a domestic space.
+
 
 ## Research Question
-One or two sentences, describing questions that your project evokes. For example: "What new relationships can we have with traditional altars?"
 
 How to signal someone was there few times ago ?
-How to redefine the silence in living room ? 
+How to redefine the silence in the living room ? 
 How can people be less lonely at home ?
+How can you 
 
- 
+
 
 ## Research
-Describe in a short paragraph (~1000 chars) the research that you have conducted around your core questions. Mentions your research methods: interviews, observations, questionnaires, et cætera. Illustrate each method with corresponding data, photo, sketches, audio, movies, etc. You can put a lot of elements here, but please curate the most illustrative materials.
+I focused my researchs around my living room, where my four roommates often circulate, to use the kitchen, relax on the sofa, eat on the table, and sometimes interact and talk with each other. I decided to note every sound that would occur around the room, from the loudest and most repetitive ones to the most unsignificant ones. 
 
+![images](images/soundslist.jpg)
+
+I traced the steps of three of my roommates to see where they would often go in the space.
+
+![images](images/Adamamoves.jpg)
+![images](images/Luizmoves.jpg)
+![images](images/Maximemoves.jpg)
 
 
 
 ## Insights
-One, two, or three (max) insights from your research. Each insight described in one sentence. Example: "Pets can play the role of catalyst for resolving conflict in a couple".
 
 
 
 ## First ideas & prototypes
-Show three of your prototypes.
+Being unable of interacting with my roommates as much as I wanted, I come with the desire of trying capturing of their presence, completely or partially, in a poetic way.
+One of my first ideas was as follow "A robot generating very quiet pleasant sounds when nobody is talking for a while in the living room, these sounds being sampled and reshaped from conversations it heard few hours before."
 
 
+### The Echo Tapestry
+The Echo Tapestry is basically a tapestry that sleeps during quiet moments, but wake up when it hears human rumors around itself, it listens conversations then reshapes them into unrecognizing sounds, echoes, which it will then ressurect hours later when detecting a silent presence. 
 
-### Name of first prototype
-Short paragraph (~250 chars) describing the prototype.
-
-The Echo Tapestry is a tapestry 
+![images](images/prototype_TheEchoTap.jpg)
+![images](images/Storyboard_TheEchoTap.png)
 
 
-+ One photo of the prototype (can be gif animation, or static)
-+ One storyboard of the prototype
-+ (Optional) Audio
-+ (Optional) Video
+### Remirest
+Remirest is a smaller prototype than Echo Tapestry, it's a small companion that can be held in the palm of the hand or worn as a necklace, it has the same function of the first prototype but ressurect a reminescence when feeling the touch of a human. 
 
-### Name of second prototype
-Short paragraph (~250 chars) describing the prototype.
+<video width="600" controls>
+  <source src="images/AudioConcept.mp4." type="video/mp4">
+</video>
 
-+ One photo of the prototype (can be gif animation, or static)
-+ One storyboard of the prototype
-+ (Optional) Audio
-+ (Optional) Video
+![images](images/Storyboard_Remirest.png)
 
-### Name of third prototype
-Short paragraph (~250 chars) describing the prototype.
-
-+ One photo of the prototype (can be gif animation, or static)
-+ One storyboard of the prototype
-+ (Optional) Audio
-+ (Optional) Video
 
 ## Next Steps
-In one sentence, describe what you will focus on next.
+For the next steps, I am coming back again to researchs and defining lists of better scenarios for my robot. 
