@@ -63,3 +63,4 @@ For the next steps, I am coming back to :
 - Researchs, definitely exploring more the subject, developping my research questions.
 - Defining a list of better scenarios -than my current one- for my robot and all the possibilities it could involve. 
 - Work a few other physical prototypes. 
+- What/which types of sound/music ? 
