@@ -1,4 +1,4 @@
-# Your Name Here
+# Francesco Le Touzé
 - Soft Robots
 - Master Media Design + O2R
 
@@ -9,11 +9,10 @@ Ressurecting/invoking presences and reminescences in a domestic space.
 
 ## Research Question
 
-How to signal someone was there few times ago ?
-How to redefine the silence in the living room ? 
 How can people be less lonely at home ?
-How can you 
-
+How can you turn memories to life again ? 
+How to signal someone was at home few times ago ?
+How to redefine the silence in the living room ? 
 
 
 ## Research
@@ -26,11 +25,6 @@ I traced the steps of three of my roommates to see where they would often go in 
 ![images](images/Adamamoves.jpg)
 ![images](images/Luizmoves.jpg)
 ![images](images/Maximemoves.jpg)
-
-
-
-## Insights
-
 
 
 ## First ideas & prototypes
